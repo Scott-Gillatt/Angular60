@@ -4,3 +4,5 @@ Some Simple Angular Examples
 Just trying to create some simple examples for beginning JavaScript programmers.
 
 Based HEAVILY on Dan Wahlin's Angular in 60-ish minutes
+
+Repo used by Ken Wilcox to help teach variety of topics.
